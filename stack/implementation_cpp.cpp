@@ -28,7 +28,7 @@ class Stack{
 	int peek(){
 		if(this->top==-1){
 			cout<<"Empty Stack"<<endl;
-			return 0;
+			return 0; 
 		}
 		else{
 			return this->vt[top];
