@@ -34,6 +34,5 @@ int main(){
 	vector<int> inp{2,7,11,15};
 	
 	cout<<twoSum(inp, 9)<<//0 1;
-	
-	
+		
 }
